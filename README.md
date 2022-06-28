@@ -1,4 +1,4 @@
-# project-0
+# Library Organizer
 This program takes information about different books and stores the books in a library where they are organized according to genre and author.
 
 Each book must have a title and an author. It can also have a genre, the number of pages in the book, and the number of hours it took to read.
